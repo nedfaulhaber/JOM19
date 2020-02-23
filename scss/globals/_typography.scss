@@ -5,9 +5,10 @@ html {
 }
 
 h1 {
-  font-size: 3.6em;
+  font-size: 3em;
   letter-spacing: .2em;
   font-weight: 700;
+  line-height: 1.3em;
 }
 
 h2 {
@@ -18,11 +19,12 @@ h2 {
 h3 {
   font-size: 1.5em;
   font-weight: 400;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 
 h4 {
   font-size: 1.2em;
-  font-family: 'Open Sans Condensed', sans-serif;
+  font-family: 'Krona One', sans-serif;
   letter-spacing: .14em;
   line-height: 1.7em;
 }
@@ -33,7 +35,7 @@ p {
   letter-spacing: .03em;
   line-height: 1.7em;
   font-weight: 400;
-  font-family: 'PT Sans', sans-serif;
+  font-family: 'Open Sans Condensed', sans-serif;
   text-indent: 1.5em;
 }
 
